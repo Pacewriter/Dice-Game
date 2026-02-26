@@ -37,5 +37,26 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
 
+.button{
+  display: flex;
+  justify-content: center;
+  margin: 5%;
+
+}
+
+.btn{
+  margin-top: 30px;
+  padding: 12px 25px;
+  font-size: 1.2rem;
+  background-color: crimson;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background-color: darkred;
 }
