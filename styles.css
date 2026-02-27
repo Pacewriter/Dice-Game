@@ -15,6 +15,13 @@
 
 }
 
+.Dicee{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: nowrap;
+}
+
 body {
   background-color: #393E46;
   padding-top: 40px;
